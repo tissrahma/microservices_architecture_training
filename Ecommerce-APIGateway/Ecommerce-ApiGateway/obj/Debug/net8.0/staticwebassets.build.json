@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ipsJuX2q776FfecgModLAvXL5ysBkt+ml5N1YwSJo+A=",
+  "Source": "Ecommerce-ApiGateway",
+  "BasePath": "_content/Ecommerce-ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
